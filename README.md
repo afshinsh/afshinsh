@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afshinsh
-- 👀 I’m interested in Programming with c# language
+- 👀 I’m interested in Programming with C# language
 - 📫 afshinsharifian13@gmail.com
 
 <!---
